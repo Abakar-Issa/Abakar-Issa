@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **stroke prediction with machine learning models**
 
-- 🌱 I’m currently learning **the symfony framework**
+- 🌱 I’m currently learning **a GAN ( Generative Adversarial Network for tabular data **
 
-- 👯 I’m looking to collaborate on **an IT development project**
+- 👯 I am looking to collaborate on a **work-study machine learning project**
 
 - 📫 How to reach me **issaabakar17@gmail.com**
 
