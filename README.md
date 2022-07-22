@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Issa</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">An Artificial Intelligence enthusiast</h3>
 
 - 🔭 I’m currently working on **stroke prediction with machine learning models**
 
