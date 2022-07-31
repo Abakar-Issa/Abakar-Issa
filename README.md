@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **a GAN ( Generative Adversarial Network for tabular data **
 
-- 👯 I am looking to collaborate on a **work-study machine learning project**
+- 👯 I am looking to collaborate on a **work-study machine learning and software developement project **
 
 - 📫 How to reach me **issaabakar17@gmail.com**
 
