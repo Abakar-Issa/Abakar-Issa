@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **stroke prediction with machine learning models**
 
-- 🌱 I’m currently learning **a GAN ( Generative Adversarial Network for tabular data **
+- 🌱 I’m currently learning **a GAN ( Generative Adversarial Network for tabular data) , Symfony Framework **
 
 - 👯 I am looking to collaborate on a **work-study machine learning and software developement project **
 
