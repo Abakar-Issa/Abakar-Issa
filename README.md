@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Issa</h1>
 <h3 align="center">An Artificial Intelligence enthusiast</h3>
 
-- 🔭 I’m currently working on **studying my last year computer science ( Artificial Intelligence Precisely )  **
+- 🔭 I’m currently working on **studying my last year in computer science ( Artificial Intelligence Precisely )  **
 
 - 🌱 I’m currently learning ** NLP, Graph Mining, Machine Learning, Signal Processing ... **
 
