@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Issa</h1>
 <h3 align="center">An Artificial Intelligence enthusiast</h3>
 
-- 🔭 I’m currently working on **stroke prediction with machine learning models**
+- 🔭 I’m currently working on **studying my last year computer science ( Artificial Intelligence Precisely )  **
 
-- 🌱 I’m currently learning **a GAN ( Generative Adversarial Network for tabular data) , Symfony Framework **
+- 🌱 I’m currently learning ** NLP, Graph Mining, Machine Learning, Signal Processing ... **
 
-- 👯 I am looking to collaborate on a **work-study machine learning and software developement project **
+- 👯 I am looking to collaborate on a ** Internship in AI / Data Science **
 
 - 📫 How to reach me **issaabakar17@gmail.com**
 
