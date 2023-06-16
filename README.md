@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Issa</h1>
 <h3 align="center">An Artificial Intelligence enthusiast</h3>
 
-- 🔭 I’m currently working on **studying my last year in computer science ( Artificial Intelligence Precisely )  **
+- 🔭 I'm currently interning on a "Deep Learning in Medical Imaging" project.
 
-- 🌱 I’m currently learning ** NLP, Graph Mining, Machine Learning, Signal Processing ... **
+- 🌱 This course will enable me to deepen my knowledge of data processing and machine learning.
+- 🌱 I use the following technologies: Python, Pytorch, Monai, SimpleITK ...
+- 👯 I'm looking for a job in Data Science or Data Engineer. 
 
-- 👯 I am looking to collaborate on a ** Internship in AI / Data Science **
-
-- 📫 How to reach me **issaabakar17@gmail.com**
+- 📫 How to reach me : **issaabakar17@gmail.com** or **+33758342537**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
