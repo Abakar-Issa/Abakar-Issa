@@ -2,7 +2,6 @@
 <h3 align="center">An Artificial Intelligence enthusiast</h3>
 
 - 🔭 I'm currently interning on a "Deep Learning in Medical Imaging" project.
-
 - 🌱 This course will enable me to deepen my knowledge of data processing and machine learning.
 - 🌱 I use the following technologies: Python, Pytorch, Monai, SimpleITK ...
 - 👯 I'm looking for a job in Data Science or Data Engineer. 
